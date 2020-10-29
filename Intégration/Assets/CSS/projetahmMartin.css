@@ -1,0 +1,19 @@
+#boutonsReseaux{
+    position: fixed;
+    z-index: 2;
+    top: 80px;
+    right: 0%;
+    background-color: yellow;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:center;
+    
+}
+#boutonInstagram, #boutonTwitter, #boutonFacebook{
+    height: 75px;
+}
+#navbar{
+    position: sticky;
+    z-index: 1;
+}
