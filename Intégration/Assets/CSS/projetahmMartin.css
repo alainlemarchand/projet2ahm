@@ -1,6 +1,6 @@
 #boutonsReseaux{
     position: fixed;
-    z-index: 2;
+    z-index: 1000;
     top: 80px;
     right: 0%;
     background-color: yellow;
@@ -14,6 +14,6 @@
     height: 75px;
 }
 #navbar{
-    position: sticky;
-    z-index: 1;
+    position:sticky;
+    z-index: 200;
 }
